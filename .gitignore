@@ -1,0 +1,6 @@
+/docker/env
+/docker/data
+/do/docker/cker/output
+/docker/.env
+/terraform/*.tfvars
+
