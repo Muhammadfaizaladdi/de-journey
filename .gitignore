@@ -1,3 +1,8 @@
+/etl/*
+.gitignore
+**/.terraform/*
+*.tfstate
+*.tfstate.backup
 /docker/env
 /docker/data
 /do/docker/cker/output
